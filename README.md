@@ -49,3 +49,13 @@ K-Means Clustering
 Visualization
 
 Business Insights
+
+K-Means Clustering (Unsupervised Learning)
+
+# Key Insights
+
+Identified high-value customers
+
+Found low-spending customer segments
+
+Business can target specific clusters with personalized marketing
