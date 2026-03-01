@@ -1,3 +1,4 @@
+
 # customer-segmentation-kmeans
 
 
@@ -30,3 +31,21 @@ Matplotlib
 Seaborn
 
 Scikit-learn
+
+# Steps Performed
+
+Data Cleaning
+
+Exploratory Data Analysis
+
+Feature Selection
+
+Scaling
+
+Elbow Method
+
+K-Means Clustering
+
+Visualization
+
+Business Insights
